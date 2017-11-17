@@ -1,0 +1,430 @@
+﻿Log file open, 09/14/17 14:16:29
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: MyProject3
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1437635660) SRandInit(-1437635660).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.189125
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/cs2/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.09.14-18.16.30:320][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.14-18.16.30:320][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.09.14-18.16.30:356][  0]LogInit: Computer: CSKELP04
+[2017.09.14-18.16.30:356][  0]LogInit: User: msingh5
+[2017.09.14-18.16.30:356][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.09.14-18.16.30:356][  0]LogInit: High frequency timer resolution =3.117187 MHz
+[2017.09.14-18.16.30:357][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.09.14-18.16.30:357][  0]LogMemory: Platform Memory Stats for Windows
+[2017.09.14-18.16.30:357][  0]LogMemory: Process Physical Memory: 278.42 MB used, 278.42 MB peak
+[2017.09.14-18.16.30:357][  0]LogMemory: Process Virtual Memory: 274.44 MB used, 274.44 MB peak
+[2017.09.14-18.16.30:357][  0]LogMemory: Physical Memory: 4119.20 MB used,  3937.70 MB free, 8056.90 MB total
+[2017.09.14-18.16.30:357][  0]LogMemory: Virtual Memory: 668.03 MB used,  3937.70 MB free, 134217728.00 MB total
+[2017.09.14-18.16.30:501][  0]LogInit: Using OS detected language (en-US).
+[2017.09.14-18.16.30:501][  0]LogInit: Using OS detected locale (en-US).
+[2017.09.14-18.16.30:504][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.09.14-18.16.31:174][  0]LogD3D11RHI: D3D11 adapters:
+[2017.09.14-18.16.31:183][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2017.09.14-18.16.31:183][  0]LogD3D11RHI:       128/0/4028 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2017.09.14-18.16.31:184][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.09.14-18.16.31:184][  0]LogD3D11RHI:       0/0/4028 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.09.14-18.16.31:184][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.09.14-18.16.31:189][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.09.14-18.16.31:189][  0]LogD3D11RHI:     GPU DeviceId: 0x1912 (for the marketing name, search the web for "GPU Device Id")
+[2017.09.14-18.16.31:189][  0]LogWindows: EnumDisplayDevices:
+[2017.09.14-18.16.31:189][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2017.09.14-18.16.31:189][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2017.09.14-18.16.31:190][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2017.09.14-18.16.31:190][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2017.09.14-18.16.31:190][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 530
+[2017.09.14-18.16.31:190][  0]LogD3D11RHI:   Driver Version: 21.20.16.4627 (internal:21.20.16.4627, unified:21.20.16.4627)
+[2017.09.14-18.16.31:190][  0]LogD3D11RHI:      Driver Date: 3-9-2017
+[2017.09.14-18.16.31:190][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.09.14-18.16.31:197][  0]LogD3D11RHI: Async texture creation enabled
+[2017.09.14-18.16.31:205][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2017.09.14-18.16.31:207][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/msingh5/Documents/Unreal Projects/MyProject3/Intermediate/Shaders/WorkingDirectory/9580/).
+[2017.09.14-18.16.31:207][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/msingh5/AppData/Local/Temp/UnrealShaderWorkingDir/B6C010BC4B740E78A6D78F854E998E62/'.
+[2017.09.14-18.16.31:207][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.09.14-18.16.32:086][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.09.14-18.16.32:133][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.09.14-18.16.32:179][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.09.14-18.16.32:225][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.09.14-18.16.32:274][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.09.14-18.16.32:319][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.09.14-18.16.32:367][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.09.14-18.16.32:414][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.09.14-18.16.32:455][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.09.14-18.16.32:499][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.09.14-18.16.32:545][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.09.14-18.16.32:590][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.09.14-18.16.32:634][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.09.14-18.16.32:680][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.09.14-18.16.32:726][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.09.14-18.16.32:818][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.09.14-18.16.32:818][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.09.14-18.16.32:853][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.09.14-18.16.32:938][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.09.14-18.16.32:968][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.09.14-18.16.33:013][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.09.14-18.16.33:058][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.09.14-18.16.33:102][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.09.14-18.16.33:149][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.09.14-18.16.33:149][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.09.14-18.16.33:578][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.09.14-18.16.33:679][  0]LogDerivedDataCache: Loaded boot cache 0.10s 93MB C:/Users/msingh5/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.14-18.16.33:680][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/msingh5/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.09.14-18.16.33:680][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/msingh5/Documents/Unreal Projects/MyProject3/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.09.14-18.16.33:680][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.09.14-18.16.33:681][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/msingh5/Documents/Unreal Projects/MyProject3/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.09.14-18.16.33:681][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.09.14-18.16.33:704][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.09.14-18.16.33:718][  0]LogDerivedDataCache: Using Local data cache path C:/Users/msingh5/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.09.14-18.16.33:732][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.09.14-18.16.33:733][  0]LogSlate: Using Freetype 2.6.0
+[2017.09.14-18.16.33:734][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.14-18.16.33:734][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.14-18.16.34:051][  0]LogAssetRegistry: FAssetRegistry took 0.0254 seconds to start up
+[2017.09.14-18.16.34:166][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.14-18.16.34:331][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.09.14-18.16.34:602][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.09.14-18.16.34:637][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.09.14-18.16.34:637][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.09.14-18.16.34:637][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.09.14-18.16.34:637][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.09.14-18.16.34:637][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.09.14-18.16.35:007][  0]LogNetVersion: MyProject3 , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 843825019)
+[2017.09.14-18.16.35:247][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.061976 seconds
+[2017.09.14-18.16.35:252][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.09.14-18.16.35:252][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.09.14-18.16.35:252][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.09.14-18.16.35:307][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.09.14-18.16.38:045][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.09.14-18.16.38:085][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.09.14-18.16.38:765][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.09.14-18.16.39:164][  0]SourceControl: Source control is disabled
+[2017.09.14-18.16.39:164][  0]SourceControl: Source control is disabled
+[2017.09.14-18.16.39:210][  0]SourceControl: Source control is disabled
+[2017.09.14-18.16.39:261][  0]SourceControl: Source control is disabled
+[2017.09.14-18.16.39:800][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.09.14-18.16.40:034][  0]LogOcInput: OculusInput pre-init called
+[2017.09.14-18.16.40:297][  0]LogEngine: Initializing Engine...
+[2017.09.14-18.16.40:298][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.09.14-18.16.40:630][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.09.14-18.16.40:630][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.09.14-18.16.40:795][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.09.14-18.16.40:802][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.14-18.16.40:952][  0]LogInit: FAudioDevice initialized.
+[2017.09.14-18.16.41:069][  0]LogDerivedDataCache: Saved boot cache 0.12s 93MB C:/Users/msingh5/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.14-18.16.41:092][  0]LogInit: Texture streaming: Enabled
+[2017.09.14-18.16.41:211][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.09.14-18.16.41:424][  0]LogInit: Transaction tracking system initialized
+[2017.09.14-18.16.41:804][  0]BlueprintLog: New page: Editor Load
+[2017.09.14-18.16.42:849][  0]LocalizationService: Localization service is disabled
+[2017.09.14-18.16.43:492][  0]LogConsoleResponse: Display: 
+[2017.09.14-18.16.43:696][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.09.14-18.16.43:696][  0]LogCook: Display: Mobile HDR setting 1
+[2017.09.14-18.16.43:697][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.09.14-18.16.43:725][  0]LogFileCache: Scanning file cache for directory 'C:/Users/msingh5/Documents/Unreal Projects/MyProject3/Content/' took 0.02s
+[2017.09.14-18.16.44:712][  0]SourceControl: Source control is disabled
+[2017.09.14-18.16.44:713][  0]Cmd: MAP LOAD FILE="../../../../../../Users/msingh5/Documents/Unreal Projects/MyProject3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.14-18.16.44:713][  0]LightingResults: New page: Lighting Build
+[2017.09.14-18.16.44:753][  0]MapCheck: New page: Map Check
+[2017.09.14-18.16.44:753][  0]LightingResults: New page: Lighting Build
+[2017.09.14-18.16.45:457][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.09.14-18.16.45:474][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.14-18.16.45:519][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.14-18.16.45:577][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 57.696ms to complete.
+[2017.09.14-18.16.45:577][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.864
+[2017.09.14-18.16.45:635][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.09.14-18.16.45:742][  0]LogCollectionManager: Loaded 0 collections in 0.001629 seconds
+[2017.09.14-18.16.45:833][  0]LogFileCache: Scanning file cache for directory 'C:/Users/msingh5/Documents/Unreal Projects/MyProject3/Saved/Collections/' took 0.01s
+[2017.09.14-18.16.45:833][  0]LogFileCache: Scanning file cache for directory 'C:/Users/msingh5/Documents/Unreal Projects/MyProject3/Content/Developers/msingh5/Collections/' took 0.01s
+[2017.09.14-18.16.45:833][  0]LogFileCache: Scanning file cache for directory 'C:/Users/msingh5/Documents/Unreal Projects/MyProject3/Content/Collections/' took 0.01s
+[2017.09.14-18.16.45:833][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.09.14-18.16.45:842][  0]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2386 classes and 500 folders.
+[2017.09.14-18.16.45:901][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.09.14-18.16.46:203][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.09.14-18.16.46:244][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.09.14-18.16.46:270][  0]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.09.14-18.16.46:272][  0]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.09.14-18.16.46:281][  0]LogSlate: Took 0.003906 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.09.14-18.16.46:439][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.09.14-18.16.47:199][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.09.14-18.16.47:199][  0]LogLoad: (Engine Initialization) Total time: 18.53 seconds
+[2017.09.14-18.16.47:199][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.09.14-18.16.47:200][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.09.14-18.16.47:232][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.09.14-18.16.47:286][  0]LogSlate: Took 0.003330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.14-18.16.47:323][  1]LogAssetRegistry: Asset discovery search completed in 13.2926 seconds
+[2017.09.14-18.16.47:326][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.09.14-18.16.47:326][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000144 seconds (updated 0 objects)
+[2017.09.14-18.17.08:989][ 83]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.09.14-18.17.16:862][191]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter3)
+[2017.09.14-18.18.25:867][683]LogSlate: Took 0.000473 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.14-18.18.26:315][683]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 113 classes and 0 folders.
+[2017.09.14-18.18.27:069][683]LogSlate: Took 0.004639 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.09.14-18.18.27:284][684]LogSlate: Took 0.012920 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.09.14-18.19.36:871][214]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2017.09.14-18.20.00:815][384]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.14-18.20.00:919][384]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.14-18.20.00:920][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.14-18.20.00:921][384]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 14, 2017, 10:20:00 AM)
+[2017.09.14-18.20.00:922][384]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.09.14-18.20.00:966][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043891s)
+[2017.09.14-18.20.00:969][384]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.09.14-18.20.00:970][384]LogPlayLevel: PIE: World Init took: (0.003386s)
+[2017.09.14-18.20.00:970][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.048215s)
+[2017.09.14-18.20.01:021][384]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.14-18.20.01:029][384]LogInit: FAudioDevice initialized.
+[2017.09.14-18.20.01:100][384]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.09.14-18.20.01:108][384]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.09.14-14.20.01
+[2017.09.14-18.20.01:109][384]LogWorld: Bringing up level for play took: 0.005710
+[2017.09.14-18.20.01:151][384]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.09.14-18.20.01:152][384]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.484
+[2017.09.14-18.20.01:152][384]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.14-18.20.01:185][385]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.064555 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter3', movement 'Walking'
+[2017.09.14-18.20.25:282][834]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.14-18.20.25:392][834]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.14-18.20.54:171][171]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.09.14-18.20.55:414][189]Cmd: DELETE
+[2017.09.14-18.20.55:414][189]Cmd: ACTOR DELETE
+[2017.09.14-18.20.55:435][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.09.14-18.20.55:468][189]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2017.09.14-18.20.57:016][215]Cmd: SELECT NONE
+[2017.09.14-18.20.58:444][237]Cmd: TRANSACTION UNDO
+[2017.09.14-18.20.58:444][237]LogEditorTransaction: Undo Select None
+[2017.09.14-18.20.58:585][237]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.14-18.20.59:862][260]Cmd: TRANSACTION UNDO
+[2017.09.14-18.20.59:862][260]LogEditorTransaction: Undo Delete Actors
+[2017.09.14-18.21.06:514][361]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter3)
+[2017.09.14-18.25.41:392][127]LogMaterial: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2017.09.14-18.25.41:461][127]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2017.09.14-18.25.41:508][127]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2017.09.14-18.25.41:551][127]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2017.09.14-18.25.41:588][127]LogMaterial: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2017.09.14-18.25.41:651][127]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.09.14-18.25.41:677][127]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.09.14-18.25.41:704][127]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.09.14-18.25.41:732][127]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.09.14-18.25.41:775][127]LogMaterial: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2017.09.14-18.25.41:806][127]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.09.14-18.25.41:839][127]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2017.09.14-18.25.41:864][127]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2017.09.14-18.26.09:730][363]Cmd: SELECT NONE
+[2017.09.14-18.26.10:255][369]Cmd: SELECT NONE
+[2017.09.14-18.26.11:214][377]Cmd: TRANSACTION UNDO
+[2017.09.14-18.26.11:214][377]LogEditorTransaction: Undo Select None
+[2017.09.14-18.26.17:712][445]LogSynthBenchmark: Display: FSynthBenchmark (V0.95):  requested WorkScale=1.00
+[2017.09.14-18.26.17:712][445]LogSynthBenchmark: Display: ===============
+[2017.09.14-18.26.17:712][445]LogSynthBenchmark: Display: Main Processor:
+[2017.09.14-18.26.17:756][445]LogSynthBenchmark: Display:          ... 0.023072 s/Run 'RayIntersect'
+[2017.09.14-18.26.17:756][445]LogSynthBenchmark: Display:          ... 0.020817 s/Run 'Fractal'
+[2017.09.14-18.26.17:756][445]LogSynthBenchmark: Display: 
+[2017.09.14-18.26.17:756][445]LogSynthBenchmark: Display:   CompiledTarget_x_Bits: 64
+[2017.09.14-18.26.17:756][445]LogSynthBenchmark: Display:   UE_BUILD_SHIPPING: 0
+[2017.09.14-18.26.17:756][445]LogSynthBenchmark: Display:   UE_BUILD_TEST: 0
+[2017.09.14-18.26.17:756][445]LogSynthBenchmark: Display:   UE_BUILD_DEBUG: 0
+[2017.09.14-18.26.17:756][445]LogSynthBenchmark: Display:   TotalPhysicalGBRam: 8
+[2017.09.14-18.26.17:756][445]LogSynthBenchmark: Display:   NumberOfCores (physical): 4
+[2017.09.14-18.26.17:756][445]LogSynthBenchmark: Display:   NumberOfCores (logical): 4
+[2017.09.14-18.26.17:756][445]LogSynthBenchmark: Display:   CPU Perf Index 0: 111.0 (weight 1.00)
+[2017.09.14-18.26.17:756][445]LogSynthBenchmark: Display:   CPU Perf Index 1: 137.4 (weight 1.50)
+[2017.09.14-18.26.17:756][445]LogSynthBenchmark: Display:  
+[2017.09.14-18.26.17:756][445]LogSynthBenchmark: Display: Graphics:
+[2017.09.14-18.26.17:756][445]LogSynthBenchmark: Display:   Adapter Name: 'Intel(R) HD Graphics 530'
+[2017.09.14-18.26.17:756][445]LogSynthBenchmark: Display:   (On Optimus the name might be wrong, memory should be ok)
+[2017.09.14-18.26.17:756][445]LogSynthBenchmark: Display:   Vendor Id: 0x8086
+[2017.09.14-18.26.17:756][445]LogSynthBenchmark: Display:   Device Id: 0x1912
+[2017.09.14-18.26.17:756][445]LogSynthBenchmark: Display:   Device Revision: 0x6
+[2017.09.14-18.26.17:756][445]LogSynthBenchmark: Display:   GPU Memory: 128/0/4029 MB
+[2017.09.14-18.26.17:911][445]LogSynthBenchmark: Display:   GPU first test: 0.04s
+[2017.09.14-18.26.17:911][445]LogSynthBenchmark: Display:          ... 0.606 s/GigaPix, Confidence=89% 'ALUHeavyNoise' (likely to be very inaccurate)
+[2017.09.14-18.26.17:911][445]LogSynthBenchmark: Display:          ... 0.519 s/GigaPix, Confidence=89% 'TexHeavy' (likely to be very inaccurate)
+[2017.09.14-18.26.17:911][445]LogSynthBenchmark: Display:          ... 0.452 s/GigaPix, Confidence=100% 'DepTexHeavy' (likely to be very inaccurate)
+[2017.09.14-18.26.17:911][445]LogSynthBenchmark: Display:          ... 1.391 s/GigaPix, Confidence=89% 'FillOnly' (likely to be very inaccurate)
+[2017.09.14-18.26.17:911][445]LogSynthBenchmark: Display:          ... 0.104 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be very inaccurate)
+[2017.09.14-18.26.17:911][445]LogSynthBenchmark: Display:          ... 0.137 s/GigaVert, Confidence=89% 'VertThroughPut1' (likely to be very inaccurate)
+[2017.09.14-18.26.17:911][445]LogSynthBenchmark: Display:          ... 0.824 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be very inaccurate)
+[2017.09.14-18.26.18:314][445]LogSynthBenchmark: Display:   GPU second test: 0.31s
+[2017.09.14-18.26.18:314][445]LogSynthBenchmark: Display:          ... 0.909 s/GigaPix, Confidence=100% 'ALUHeavyNoise' (likely to be inaccurate)
+[2017.09.14-18.26.18:314][445]LogSynthBenchmark: Display:          ... 0.708 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be inaccurate)
+[2017.09.14-18.26.18:314][445]LogSynthBenchmark: Display:          ... 0.591 s/GigaPix, Confidence=89% 'DepTexHeavy' (likely to be inaccurate)
+[2017.09.14-18.26.18:314][445]LogSynthBenchmark: Display:          ... 4.697 s/GigaPix, Confidence=100% 'FillOnly' (likely to be inaccurate)
+[2017.09.14-18.26.18:314][445]LogSynthBenchmark: Display:          ... 0.106 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be inaccurate)
+[2017.09.14-18.26.18:314][445]LogSynthBenchmark: Display:          ... 0.128 s/GigaVert, Confidence=100% 'VertThroughPut1' (likely to be inaccurate)
+[2017.09.14-18.26.18:314][445]LogSynthBenchmark: Display:          ... 0.867 s/GigaVert, Confidence=89% 'VertThroughPut2' (likely to be inaccurate)
+[2017.09.14-18.26.18:314][445]LogSynthBenchmark: Display:   GPU Final Results:
+[2017.09.14-18.26.18:314][445]LogSynthBenchmark: Display:          ... 0.909 s/GigaPix, Confidence=100% 'ALUHeavyNoise'
+[2017.09.14-18.26.18:314][445]LogSynthBenchmark: Display:          ... 0.708 s/GigaPix, Confidence=100% 'TexHeavy'
+[2017.09.14-18.26.18:314][445]LogSynthBenchmark: Display:          ... 0.591 s/GigaPix, Confidence=89% 'DepTexHeavy'
+[2017.09.14-18.26.18:314][445]LogSynthBenchmark: Display:          ... 4.697 s/GigaPix, Confidence=100% 'FillOnly'
+[2017.09.14-18.26.18:314][445]LogSynthBenchmark: Display:          ... 0.106 s/GigaPix, Confidence=100% 'Bandwidth'
+[2017.09.14-18.26.18:314][445]LogSynthBenchmark: Display:          ... 0.128 s/GigaVert, Confidence=100% 'VertThroughPut1'
+[2017.09.14-18.26.18:314][445]LogSynthBenchmark: Display:          ... 0.867 s/GigaVert, Confidence=89% 'VertThroughPut2'
+[2017.09.14-18.26.18:314][445]LogSynthBenchmark: Display: 
+[2017.09.14-18.26.18:314][445]LogSynthBenchmark: Display:   GPU Perf Index 0: 19.8 (weight 1.00)
+[2017.09.14-18.26.18:314][445]LogSynthBenchmark: Display:   GPU Perf Index 1: 9.5 (weight 0.10)
+[2017.09.14-18.26.18:314][445]LogSynthBenchmark: Display:   GPU Perf Index 2: 15.4 (weight 0.10)
+[2017.09.14-18.26.18:314][445]LogSynthBenchmark: Display:   GPU Perf Index 3: 18.4 (weight 3.00)
+[2017.09.14-18.26.18:314][445]LogSynthBenchmark: Display:   GPU Perf Index 4: 9.9 (weight 1.00)
+[2017.09.14-18.26.18:314][445]LogSynthBenchmark: Display:   GPU Perf Index 5: 8.3 (weight 0.00)
+[2017.09.14-18.26.18:314][445]LogSynthBenchmark: Display:   GPU Perf Index 6: 49.0 (weight 0.00)
+[2017.09.14-18.26.18:314][445]LogSynthBenchmark: Display:   CPUIndex: 126.8
+[2017.09.14-18.26.18:315][445]LogSynthBenchmark: Display:   GPUIndex: 16.8
+[2017.09.14-18.26.18:315][445]LogSynthBenchmark: Display: 
+[2017.09.14-18.26.18:315][445]LogSynthBenchmark: Display:          ... Total Time: 0.602981 sec
+[2017.09.14-18.26.18:827][445]LogContentStreaming: Texture pool size now 400 MB
+[2017.09.14-18.26.18:846][445]LogRenderer: Reallocating scene render targets to support 1208x900 Format 9 NumSamples 1 (Frame:5169).
+[2017.09.14-18.26.20:820][564]Cmd: TRANSACTION UNDO
+[2017.09.14-18.26.20:820][564]LogEditorTransaction: Undo Select None
+[2017.09.14-18.26.22:066][634]Cmd: TRANSACTION UNDO
+[2017.09.14-18.26.22:066][634]LogEditorTransaction: Undo Edit Material
+[2017.09.14-18.26.22:933][685]Cmd: TRANSACTION UNDO
+[2017.09.14-18.26.22:933][685]LogEditorTransaction: Undo Add Local Variable
+[2017.09.14-18.26.38:425][389]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2017.09.14-18.26.39:344][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2017.09.14-18.26.39:892][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2017.09.14-18.26.43:123][701]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.14-18.26.43:152][701]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.14-18.26.43:152][701]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.09.14-18.26.43:162][701]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2017.09.14-18.26.43:214][701]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_4, Actor: /Engine/Transient.World_4:PersistentLevel.REINST_ThirdPersonCharacter_C_0
+[2017.09.14-18.26.43:214][701]LogWorld: --- Actors Currently in /Engine/Transient.World_4:PersistentLevel ---
+[2017.09.14-18.26.43:214][701]LogWorld:   /Engine/Transient.World_4:PersistentLevel.WorldSettings
+[2017.09.14-18.26.43:214][701]LogWorld:   /Engine/Transient.World_4:PersistentLevel.Brush_4
+[2017.09.14-18.26.43:214][701]LogWorld:   /Engine/Transient.World_4:PersistentLevel.DefaultPhysicsVolume_4
+[2017.09.14-18.26.43:214][701]LogWorld:   /Engine/Transient.World_4:PersistentLevel.ParticleEventManager_4
+[2017.09.14-18.26.43:214][701]LogWorld:   NONE
+[2017.09.14-18.26.43:214][701]LogWorld:   /Engine/Transient.World_4:PersistentLevel.ThirdPersonCharacter_C_5
+[2017.09.14-18.26.43:803][701]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.589 s
+[2017.09.14-18.26.43:803][701]LogOutputDevice: Error: === Handled ensure: ===
+[2017.09.14-18.26.43:803][701]LogOutputDevice: Error: 
+[2017.09.14-18.26.43:803][701]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\Engine\Private\World.cpp] [Line: 1486]
+[2017.09.14-18.26.43:803][701]LogOutputDevice: Error: Could not remove actor /Engine/Transient.World_4:PersistentLevel.REINST_ThirdPersonCharacter_C_0 from world (check level is /Engine/Transient.World_4:PersistentLevel)
+[2017.09.14-18.26.43:803][701]LogOutputDevice: Error: Stack: 
+[2017.09.14-18.26.43:803][701]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000FACF3606
+[2017.09.14-18.26.43:803][701]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000FAA7C2D2
+[2017.09.14-18.26.43:803][701]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000FAA94746
+[2017.09.14-18.26.43:803][701]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000EEE12746
+[2017.09.14-18.26.43:803][701]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000EE4D6D28
+[2017.09.14-18.26.43:804][701]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000EE4DC703
+[2017.09.14-18.26.43:804][701]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000ECAD522B
+[2017.09.14-18.26.43:804][701]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000ECA98C0F
+[2017.09.14-18.26.43:804][701]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x00000000EB02973F
+[2017.09.14-18.26.43:804][701]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x00000000EAFC7F2C
+[2017.09.14-18.26.43:804][701]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000ECAA06FE
+[2017.09.14-18.26.43:804][701]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000ECC195B6
+[2017.09.14-18.26.43:804][701]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000ECC04682
+[2017.09.14-18.26.43:804][701]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000ECC20C34
+[2017.09.14-18.26.43:804][701]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000EC68BDB8
+[2017.09.14-18.26.43:804][701]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000ECF1CEE6
+[2017.09.14-18.26.43:804][701]LogOutputDevice: Error: UE4Editor.exe!0x000000000103534A
+[2017.09.14-18.26.43:804][701]LogOutputDevice: Error: UE4Editor.exe!0x0000000001043970
+[2017.09.14-18.26.43:804][701]LogOutputDevice: Error: UE4Editor.exe!0x00000000010439EA
+[2017.09.14-18.26.43:804][701]LogOutputDevice: Error: UE4Editor.exe!0x00000000010502D9
+[2017.09.14-18.26.43:804][701]LogOutputDevice: Error: UE4Editor.exe!0x0000000001051C47
+[2017.09.14-18.26.43:804][701]LogOutputDevice: Error: KERNEL32.DLL!0x00000000284B8364
+[2017.09.14-18.26.43:804][701]LogOutputDevice: Error: ntdll.dll!0x00000000299B7091
+[2017.09.14-18.26.43:804][701]LogOutputDevice: Error: 
+[2017.09.14-18.26.43:812][701]LogStats:                SubmitErrorReport -  0.000 s
